@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- lines -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M30,35h48v8h-48z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M30,50h48v8h-48z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M30,65h48v8h-48z" />
+
+    <!-- Replacing the circles with path-based circles -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M25,36a3,3 0 1,0 0.01,0" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M25,51a3,3 0 1,0 0.01,0" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M25,66a3,3 0 1,0 0.01,0" />
+</vector>
